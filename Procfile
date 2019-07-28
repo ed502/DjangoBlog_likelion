@@ -1,1 +1,1 @@
-web: gunicorn DjangoBlog_likelion.wsgi --log-file -
+web: gunicorn blogproject.wsgi --log-file -
